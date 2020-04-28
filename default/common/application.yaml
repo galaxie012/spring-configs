@@ -3,4 +3,4 @@ eureka:
     prefer-ip-address: true
   client:
     service-url:
-      defaultZone: http://eureka:8761/eureka/
+      defaultZone: http://config:8761/eureka/
